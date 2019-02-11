@@ -1,0 +1,44 @@
+.youtube{
+    display: block;
+    margin: 0 auto;
+    width: 560px;
+    height: 315px;
+    padding: 20px;
+}
+
+h1{
+    font-weight: bold;
+    text-align: center;
+}
+
+h2{
+    text-decoration: underline;
+    font-weight: bold;
+}
+
+.title{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    font-weight: bold;
+}
+
+h4{
+    font-weight: bold;
+}
+p{
+    font-size: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+.cost{
+    font-weight: normal;
+}
+
+.card{
+    border: none;
+    background-color: aliceblue;
+}

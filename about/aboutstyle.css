@@ -1,0 +1,32 @@
+.aboutcontent{
+    margin: 40px;
+}
+
+.aboutcontent p {
+    font-size: 22px;
+}
+
+.browntext{
+    color: #8D2327;
+}
+
+.centeredtext{
+    color: red;
+    text-align: center;
+}
+
+.faq{
+    margin: 40px;
+}
+
+.btn{
+    background-color: #8D2327;
+    color: white;
+    font-size: 22px;
+}
+
+
+.card-body{
+    font-size: 20px;
+}
+
